@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "software-dev-env"
+version = "0.1.0"
+description = ""
+authors = ["rongachoka <rgacho300@caledonian.ac.uk>"]
+readme = "README.md"
+packages = [{include = "software_dev_env"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+pandas = "^2.1.2"
+numpy = "^1.26.1"
+matplotlib = "^3.8.1"
+seaborn = "^0.13.0"
+jupyter = "^1.0.0"
+scipy = "^1.11.3"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.26.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
