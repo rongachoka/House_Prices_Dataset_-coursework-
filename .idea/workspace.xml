@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="606448f5-881b-4803-92fa-92cbf803b451" name="Changes" comment="Initial Commit">
+    <list default="true" id="606448f5-881b-4803-92fa-92cbf803b451" name="Changes" comment="Updated Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Housing_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Housing_2.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/index.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +66,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Updated Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Commit" />
   </component>
 </project>
